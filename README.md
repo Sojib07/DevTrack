@@ -1,23 +1,15 @@
 # DevTrack
 
-• A web application designed to monitor user
-activities, including tracked time, mouse clicks, screenshots, web camera images, and run-
-ning applications on the desktop.  
+• A web application designed to monitor user activities, including tracked time, mouse clicks, screenshots, web camera images, and running applications on the desktop.
 
-• Implemented a robust back-end utilizing a Web API (REST) architecture to facilitate seam-
-less communication between the desktop application and the web application, enabling
-data retrieval and synchronization.  
+• Implemented a robust back-end utilizing a Web API (REST) architecture to facilitate seamless communication between the desktop application and the web application, enabling data retrieval and synchronization.
 
-• Designed a comprehensive tracking system that captures diverse user interactions, includ-
-ing time tracking, mouse clicks, screenshots, and even web camera images, providing deep
-insights into user behaviors.  
+• Designed a comprehensive tracking system that captures diverse user interactions, including time tracking, mouse clicks, screenshots, and even web camera images, providing deep insights into user behaviors.
 
-• Implemented a project management feature allowing users to create new projects and
-invite team members via email. Managed the invitation process through a Worker Service,
-enhancing collaboration and project organization.  
+• Implemented a project management feature allowing users to create new projects and invite team members via email. Managed the invitation process through a Worker Service, enhancing collaboration and project organization.
 
-• Implemented advanced data visualization techniques, enabling users to analyze and in-
-terpret tracked activity data through intuitive graphs, charts, and visual representations
+• Implemented advanced data visualization techniques, enabling users to analyze and interpret tracked activity data through intuitive graphs, charts, and visual representations.
+
 
 ## Web API
 |  |  |  |  |
