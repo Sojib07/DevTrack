@@ -1,15 +1,19 @@
 # DevTrack
 
-A web application with ASP.NET Core to track activities from users such as tracked time, 
-mouse clicks, screenshots, web camera images, and running 
-applications on the desktop. The tracking data is fetched from a 
-desktop application using Web API (RESTful). This project was developed as the final project of the ASP.Net Core training course from Dev Skill. 
-
-Users can create new projects and invite others to the project by email. 
-The invitation email is sent using Worker Service. Four others and I 
-worked collaboratively to develop this project within a month. We have 
-used the MSSQL server to store the data, and the project has been 
-Dockerized.
+• A web application designed to monitor user
+activities, including tracked time, mouse clicks, screenshots, web camera images, and run-
+ning applications on the desktop.
+• Implemented a robust back-end utilizing a Web API (REST) architecture to facilitate seam-
+less communication between the desktop application and the web application, enabling
+data retrieval and synchronization.
+• Designed a comprehensive tracking system that captures diverse user interactions, includ-
+ing time tracking, mouse clicks, screenshots, and even web camera images, providing deep
+insights into user behaviors.
+• Implemented a project management feature allowing users to create new projects and
+invite team members via email. Managed the invitation process through a Worker Service,
+enhancing collaboration and project organization.
+• Implemented advanced data visualization techniques, enabling users to analyze and in-
+terpret tracked activity data through intuitive graphs, charts, and visual representations
 
 ## Web API
 |  |  |  |  |
