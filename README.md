@@ -10,6 +10,9 @@
 
 • Implemented advanced data visualization techniques, enabling users to analyze and interpret tracked activity data through intuitive graphs, charts, and visual representations.
 
+## Tools Used
+ASP.Net Core, Web API, Worker Service, ADO.Net, Entity Framework, SQL Server,
+JavaScript, JQuery, Moq, Shouldly, Docker
 
 ## Web API
 |  |  |  |  |
